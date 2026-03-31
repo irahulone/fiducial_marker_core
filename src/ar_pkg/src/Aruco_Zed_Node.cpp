@@ -21,7 +21,7 @@
 #include <cmath>
 #include <algorithm>
 
-#include "utils.hpp"
+#include "zed_utils.hpp"
 #include "aruco.hpp"
 
 #include "rclcpp/rclcpp.hpp"
